@@ -3,7 +3,7 @@
 * [Insights using customer reviews on Amazon](https://github.com/RahulSingla5209/amazon_review_analysis)
 * [Optimizing Stock Portfolio](https://github.com/RahulSingla5209/stock_portfolio_optimization)
 * [Car Brand Association using Lift Analysis](https://github.com/RahulSingla5209/web_scraping_lift_analysis)
-* [Product Recommendation using cutsomer reviews](https://github.com/RahulSingla5209/sentiment_analysis)
+* [Skin Cancer(Melenoma) detection using CNN](https://github.com/averyshepherd/HAM10000Classification)
 
 # Top SQL Projects 
 * [SQL Project](https://github.com/RahulSingla5209/sql)
