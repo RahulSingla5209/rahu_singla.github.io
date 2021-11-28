@@ -6,10 +6,10 @@
 * [Skin Cancer(Melenoma) detection using CNN](https://github.com/averyshepherd/HAM10000Classification)
 
 # Top SQL Projects 
-* [SQL Project](https://github.com/RahulSingla5209/sql)
+* [E-commerce Database design](https://github.com/RahulSingla5209/ecommerce_database_design)
 
 # Tableau
-* [GOT kill analysis](https://public.tableau.com/app/profile/rahul1894/viz/GOT_16170288974890/GameOfThrones)
+* [OLIST e-commerce Data Analysis](https://public.tableau.com/app/profile/rahul1894/viz/OLISTe-commerceDataanalysis/OLISTdashboard)
 
 ### Contact
 * [LinkedIn](https://www.linkedin.com/in/singla-rahul/)
