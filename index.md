@@ -15,3 +15,4 @@
 * [LinkedIn](https://www.linkedin.com/in/singla-rahul/)
 * [GitHub](https://github.com/RahulSingla5209)
 * Email - rahul.singla@utexas.edu
+* [Resume](https://drive.google.com/file/d/18IoIu0c-y8WXhfkLmWNIAVUM30zwjBMp/view?usp=sharing)
