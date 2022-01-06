@@ -8,7 +8,7 @@
 # Top SQL Projects 
 * [E-commerce Database design](https://github.com/RahulSingla5209/ecommerce_database_design)
 
-# Tableau
+# Tableau Interactive Dashboard
 * [OLIST e-commerce Data Analysis](https://public.tableau.com/app/profile/rahul1894/viz/OLISTe-commerceDataanalysis/OLISTdashboard)
 
 ### Contact
