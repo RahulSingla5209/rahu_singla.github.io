@@ -14,8 +14,7 @@
 * [Skin Cancer detection using CNN](https://medium.com/@ashepherd_7901/convolutional-neural-network-for-skin-cancer-classification-c1af850cbb01)
 
 # Certificates
-* [Microsoft Certified Azure Data Scientist](https://www.credly.com/badges/ecca30b2-0851-4e7a-a140-e82e4bf950bf/public_url)
-* [Microsoft Certified Data Analyst](https://www.credly.com/badges/b168910e-e6f9-4dc9-a67b-0c42381d2a20/public_url)
+* [Microsoft Certified Azure Data Scientist](https://www.credly.com/badges/ecca30b2-0851-4e7a-a140-e82e4bf950bf/public_url) | [Microsoft Certified Data Analyst](https://www.credly.com/badges/b168910e-e6f9-4dc9-a67b-0c42381d2a20/public_url)
 
 # Contact
-[Resume](https://drive.google.com/file/d/1i3D_9cGR3CYdAm-zSVChoQfe2DVJfYrH/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/singla-rahul/) | [Email](mailto:rahul.singla@utexas.edu)
+* [Resume](https://drive.google.com/file/d/1i3D_9cGR3CYdAm-zSVChoQfe2DVJfYrH/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/singla-rahul/) | [Email](mailto:rahul.singla@utexas.edu)
