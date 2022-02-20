@@ -11,6 +11,7 @@
 * [OLIST e-commerce Data Analysis](https://public.tableau.com/app/profile/rahul1894/viz/OLISTe-commerceDataanalysis/OLISTdashboard)
 
 # Medium articles
+* [How to make Deep Neural Network models faster?](https://medium.com/@singlarahul1997/how-to-make-deep-neural-network-models-faster-e1846100339a)
 * [Skin Cancer detection using CNN](https://medium.com/@ashepherd_7901/convolutional-neural-network-for-skin-cancer-classification-c1af850cbb01)
 
 # Certificates
